@@ -2,7 +2,7 @@
 
 # Google Fonts Files
 
-This project mainly contains the binary font files served by Google Fonts ([fonts.google.com](https://fonts.google.com))
+This project mainly contains the binary font files served by Google Fonts ([fonts.google.com](https://fonts.google.com)) and ([Cool Fonts Changer](https://fontchanger.xyz))
 
 The top-level directories indicate the license of all files found within them.
 Subdirectories are named according to the family name of the fonts within.
